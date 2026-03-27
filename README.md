@@ -29,7 +29,7 @@ ng serve
 Then open `http://localhost:4200`
 
 ## Live URL
-[Add your deployed URL here after deployment]
+https://midterm-exam-20243418-cabatic-lm.netlify.app/tasks
 
 ## GitHub Repository
 https://github.com/UBSITCabaticLeila/appdev1-midterm-20243418.git
