@@ -1,59 +1,35 @@
-# Appdev1Midterm20243418
+# TaskFlow – Personal Task Manager
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.4.
+A lightweight Angular 21 browser-based Task Manager built for the AppDev 1 Midterm Exam.
 
-## Development server
+## Student Information
+- **Name:** Leila Marie Cabatic
+- **Student ID:** 20243418
+- **Course & Year:** BSIT 2
+- **Section:** IDB3
 
-To start a local development server, run:
+## Tech Stack
+- Angular v21 (Standalone Components)
+- TypeScript
+- Bootstrap 5
+- Bootstrap Icons
 
+## Features
+- Add, Edit, Delete tasks
+- Toggle task status (Pending → In Progress → Completed)
+- View all tasks in a table with color-coded badges
+- View full task details on a separate page
+- Parameterized routes with child routes (Info / Edit tabs)
+
+## How to Run Locally
 ```bash
+npm install
 ng serve
 ```
+Then open `http://localhost:4200`
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## Live URL
+[Add your deployed URL here after deployment]
 
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## GitHub Repository
+https://github.com/UBSITCabaticLeila/appdev1-midterm-20243418.git
